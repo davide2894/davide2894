@@ -8,4 +8,4 @@ Software developer 💻
 - 🔭 working at [YNAP](https://www.ynap.com/)
 - 📫 email me at [davide.iaiunese@gmail.com](mailto:davide.iaiunese@gmail.com)
 - 🟦 reach out to me on [linkedin](https://www.linkedin.com/in/davideiaiunese/)
-- ⚡ passionate about 🍙🎬🏋️🏔️🗾
+- ⚡ also like 🍙 🎬 🏋️ 🏔️ and 🗾
