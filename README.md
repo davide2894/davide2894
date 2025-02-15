@@ -3,7 +3,7 @@
 Software developer 💻
 
 - 🌍 based in Italy
-- ⚙️ skills: `Vanilla JavaScript`, `C#`, `React`, `React Native`, `Next.js`, `GraphQL`, `Redux Toolkit`, `TypeScript`, `Jest`,
+- ⚙️ skills: `Vanilla JavaScript`, `C#`, `React`, `React Native`, `Next.js`, `Remix.js`, `GraphQL`, `Redux Toolkit`, `TypeScript`, `Jest`, `Shopify Hydrogen`
 - 🧠 focusing on `React` and `React Native`
 - 🔭 working at [Halue](https://halue.com/)
 - 📫 email me at [davide.iaiunese@gmail.com](mailto:davide.iaiunese@gmail.com)
